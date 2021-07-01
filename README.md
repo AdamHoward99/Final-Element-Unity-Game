@@ -1,5 +1,5 @@
 <h1 align="center">Final Element</h1>
-<p align="center">This application is a Unity 3D multiplayer fighting game demo which features similar gameplay mechanics to the popular fighting series Super Smash Bros. The game consists of 4 maps to battle it out on as well as powerups which can give you an edge on your opponent. The game is playable on the Windows OS.
+<p align="center">This application is a Unity 3D multiplayer fighting game demo which features similar gameplay mechanics to the popular fighting series Super Smash Bros. The game consists of 4 maps to battle it out on as well as powerups which can give you an edge on your opponent. The game is playable on the Windows OS. This repository only contains the application exe, no code will be featured.
 </p>
 
 ## Screenshots
