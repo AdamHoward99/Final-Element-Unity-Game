@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 9ee1254f8c222d74a8962d836d157a8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: balloon
+    100002: balloon001
+    100004: bush1
+    100006: bush2
+    100008: bush3
+    100010: bush4
+    100012: bush5
+    100014: bush6
+    100016: bush7
+    100018: cloud
+    100020: cloud001
+    100022: large_Mech
+    100024: large_Mech001
+    100026: //RootNode
+    100028: Main_Mech
+    100030: Main_Mech001
+    100032: mountain
+    100034: mountain 1
+    100036: mountain 2
+    100038: Plane001
+    100040: rope005
+    100042: rope006
+    100044: rope007
+    100046: rope008
+    100048: rope1
+    100050: rope2
+    100052: rope3
+    100054: rope4
+    100056: sea
+    100058: Small_Mech
+    100060: tree
+    100062: tree005
+    100064: tree1
+    100066: tree2
+    100068: tree3
+    100070: tree4
+    100072: Tri_Mech
+    100074: Tri_Mech001
+    400000: balloon
+    400002: balloon001
+    400004: bush1
+    400006: bush2
+    400008: bush3
+    400010: bush4
+    400012: bush5
+    400014: bush6
+    400016: bush7
+    400018: cloud
+    400020: cloud001
+    400022: large_Mech
+    400024: large_Mech001
+    400026: //RootNode
+    400028: Main_Mech
+    400030: Main_Mech001
+    400032: mountain
+    400034: mountain 1
+    400036: mountain 2
+    400038: Plane001
+    400040: rope005
+    400042: rope006
+    400044: rope007
+    400046: rope008
+    400048: rope1
+    400050: rope2
+    400052: rope3
+    400054: rope4
+    400056: sea
+    400058: Small_Mech
+    400060: tree
+    400062: tree005
+    400064: tree1
+    400066: tree2
+    400068: tree3
+    400070: tree4
+    400072: Tri_Mech
+    400074: Tri_Mech001
+    2100000: No Name
+    2300000: balloon
+    2300002: balloon001
+    2300004: bush1
+    2300006: bush2
+    2300008: bush3
+    2300010: bush4
+    2300012: bush5
+    2300014: bush6
+    2300016: bush7
+    2300018: cloud
+    2300020: cloud001
+    2300022: large_Mech
+    2300024: large_Mech001
+    2300026: Main_Mech
+    2300028: Main_Mech001
+    2300030: mountain
+    2300032: mountain 1
+    2300034: mountain 2
+    2300036: Plane001
+    2300038: rope005
+    2300040: rope006
+    2300042: rope007
+    2300044: rope008
+    2300046: rope1
+    2300048: rope2
+    2300050: rope3
+    2300052: rope4
+    2300054: sea
+    2300056: Small_Mech
+    2300058: tree
+    2300060: tree005
+    2300062: tree1
+    2300064: tree2
+    2300066: tree3
+    2300068: tree4
+    2300070: Tri_Mech
+    2300072: Tri_Mech001
+    3300000: balloon
+    3300002: balloon001
+    3300004: bush1
+    3300006: bush2
+    3300008: bush3
+    3300010: bush4
+    3300012: bush5
+    3300014: bush6
+    3300016: bush7
+    3300018: cloud
+    3300020: cloud001
+    3300022: large_Mech
+    3300024: large_Mech001
+    3300026: Main_Mech
+    3300028: Main_Mech001
+    3300030: mountain
+    3300032: mountain 1
+    3300034: mountain 2
+    3300036: Plane001
+    3300038: rope005
+    3300040: rope006
+    3300042: rope007
+    3300044: rope008
+    3300046: rope1
+    3300048: rope2
+    3300050: rope3
+    3300052: rope4
+    3300054: sea
+    3300056: Small_Mech
+    3300058: tree
+    3300060: tree005
+    3300062: tree1
+    3300064: tree2
+    3300066: tree3
+    3300068: tree4
+    3300070: Tri_Mech
+    3300072: Tri_Mech001
+    4300000: Main_Mech
+    4300002: Small_Mech
+    4300004: large_Mech
+    4300006: Tri_Mech
+    4300008: cloud
+    4300010: tree
+    4300012: sea
+    4300014: tree1
+    4300016: tree2
+    4300018: tree3
+    4300020: tree4
+    4300022: mountain
+    4300024: mountain
+    4300026: mountain
+    4300028: cloud001
+    4300030: bush4
+    4300032: bush6
+    4300034: tree005
+    4300036: bush1
+    4300038: bush2
+    4300040: bush3
+    4300042: bush7
+    4300044: balloon
+    4300046: rope1
+    4300048: rope2
+    4300050: rope3
+    4300052: rope4
+    4300054: bush5
+    4300056: Plane001
+    4300058: Main_Mech001
+    4300060: Tri_Mech001
+    4300062: balloon001
+    4300064: large_Mech001
+    4300066: rope005
+    4300068: rope006
+    4300070: rope007
+    4300072: rope008
+    7400000: Take 001
+    7400002: Take 001 (1)
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6b81761be97327a4a9aba5088c20e087, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (1)
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

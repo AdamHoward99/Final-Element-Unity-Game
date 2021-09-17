@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 370b50d9f009e8047abf59d5259639b0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmPoleTarget.L
+    100002: ArmPoleTarget.R
+    100004: Bone.003
+    100006: Bone.005
+    100008: Character
+    100010: //RootNode
+    100012: CharacterControlBone
+    100014: Clavical.L
+    100016: Clavical.R
+    100018: Eyes_Low
+    100020: FinalElementGameCharacter_low
+    100022: FootBottom.L
+    100024: FootBottom.R
+    100026: FootIKControl.L
+    100028: FootIKControl.R
+    100030: FootTop.L
+    100032: FootTop.R
+    100034: HandIKController.L
+    100036: HandIKController.R
+    100038: HandLower.L
+    100040: HandLower.R
+    100042: HandTip.L.
+    100044: HandTop.L
+    100046: HandTop.R
+    100048: KneePoleTarget.L
+    100050: KneePoleTarget.R
+    100052: LowerArm.L
+    100054: LowerArm.R
+    100056: LowerLeg.L
+    100058: LowerLeg.R
+    100060: Neck
+    100062: SpineBottom
+    100064: SpineMiddle
+    100066: Teeth_low
+    100068: ThumbMiddle.L
+    100070: ThumbMiddle.R
+    100072: ThumbTip.L
+    100074: ThumbTip.R
+    100076: ThumbTop.L
+    100078: ThumbTop.R
+    100080: Tounge_low
+    100082: UpperArm.L
+    100084: UpperArm.R
+    100086: UpperLeg.L
+    100088: UpperLeg.R
+    400000: ArmPoleTarget.L
+    400002: ArmPoleTarget.R
+    400004: Bone.003
+    400006: Bone.005
+    400008: Character
+    400010: //RootNode
+    400012: CharacterControlBone
+    400014: Clavical.L
+    400016: Clavical.R
+    400018: Eyes_Low
+    400020: FinalElementGameCharacter_low
+    400022: FootBottom.L
+    400024: FootBottom.R
+    400026: FootIKControl.L
+    400028: FootIKControl.R
+    400030: FootTop.L
+    400032: FootTop.R
+    400034: HandIKController.L
+    400036: HandIKController.R
+    400038: HandLower.L
+    400040: HandLower.R
+    400042: HandTip.L.
+    400044: HandTop.L
+    400046: HandTop.R
+    400048: KneePoleTarget.L
+    400050: KneePoleTarget.R
+    400052: LowerArm.L
+    400054: LowerArm.R
+    400056: LowerLeg.L
+    400058: LowerLeg.R
+    400060: Neck
+    400062: SpineBottom
+    400064: SpineMiddle
+    400066: Teeth_low
+    400068: ThumbMiddle.L
+    400070: ThumbMiddle.R
+    400072: ThumbTip.L
+    400074: ThumbTip.R
+    400076: ThumbTop.L
+    400078: ThumbTop.R
+    400080: Tounge_low
+    400082: UpperArm.L
+    400084: UpperArm.R
+    400086: UpperLeg.L
+    400088: UpperLeg.R
+    2100000: FinalElementGameCharacter
+    2100002: Eye Outer
+    2100004: Eye
+    2300000: Eyes_Low
+    2300002: Teeth_low
+    2300004: Tounge_low
+    3300000: Eyes_Low
+    3300002: Teeth_low
+    3300004: Tounge_low
+    4300000: FinalElementGameCharacter_low
+    4300002: Tounge_low
+    4300004: Teeth_low
+    4300006: Eyes_Low
+    9500000: //RootNode
+    13700000: FinalElementGameCharacter_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

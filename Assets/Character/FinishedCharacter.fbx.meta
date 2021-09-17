@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: a66f9550e821ea14e800b9a7ff40e78b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmPoleTarget.L
+    100002: ArmPoleTarget.L_end
+    100004: ArmPoleTarget.R
+    100006: ArmPoleTarget.R_end
+    100008: CharacterControlBone
+    100010: Clavical.L
+    100012: Clavical.R
+    100014: Eyes_Low
+    100016: FinalElementGameCharacter_low
+    100018: //RootNode
+    100020: FootBottom.L
+    100022: FootBottom.L_end
+    100024: FootBottom.R
+    100026: FootBottom.R_end
+    100028: FootIKControl.L
+    100030: FootIKControl.R
+    100032: FootTop.L
+    100034: FootTop.R
+    100036: Game Character
+    100038: HandIKController.L
+    100040: HandIKController.L_end
+    100042: HandIKController.R
+    100044: HandIKController.R_end
+    100046: HandLower.L
+    100048: HandLower.R
+    100050: HandLower.R_end
+    100052: HandTip.L.
+    100054: HandTip.L._end
+    100056: HandTop.L
+    100058: HandTop.R
+    100060: Head
+    100062: Head_end
+    100064: KneePoleTarget.L
+    100066: KneePoleTarget.L_end
+    100068: KneePoleTarget.R
+    100070: KneePoleTarget.R_end
+    100072: LowerArm.L
+    100074: LowerArm.R
+    100076: LowerLeg.L
+    100078: LowerLeg.L_end
+    100080: LowerLeg.R
+    100082: LowerLeg.R_end
+    100084: Neck
+    100086: SpineBottom
+    100088: SpineMiddle
+    100090: Teeth_low
+    100092: ThumbMiddle.L
+    100094: ThumbMiddle.R
+    100096: ThumbTip.L
+    100098: ThumbTip.L_end
+    100100: ThumbTip.R
+    100102: ThumbTip.R_end
+    100104: ThumbTop.L
+    100106: ThumbTop.R
+    100108: Tounge_low
+    100110: UpperArm.L
+    100112: UpperArm.R
+    100114: UpperLeg.L
+    100116: UpperLeg.R
+    100118: UpperSpine
+    400000: ArmPoleTarget.L
+    400002: ArmPoleTarget.L_end
+    400004: ArmPoleTarget.R
+    400006: ArmPoleTarget.R_end
+    400008: CharacterControlBone
+    400010: Clavical.L
+    400012: Clavical.R
+    400014: Eyes_Low
+    400016: FinalElementGameCharacter_low
+    400018: //RootNode
+    400020: FootBottom.L
+    400022: FootBottom.L_end
+    400024: FootBottom.R
+    400026: FootBottom.R_end
+    400028: FootIKControl.L
+    400030: FootIKControl.R
+    400032: FootTop.L
+    400034: FootTop.R
+    400036: Game Character
+    400038: HandIKController.L
+    400040: HandIKController.L_end
+    400042: HandIKController.R
+    400044: HandIKController.R_end
+    400046: HandLower.L
+    400048: HandLower.R
+    400050: HandLower.R_end
+    400052: HandTip.L.
+    400054: HandTip.L._end
+    400056: HandTop.L
+    400058: HandTop.R
+    400060: Head
+    400062: Head_end
+    400064: KneePoleTarget.L
+    400066: KneePoleTarget.L_end
+    400068: KneePoleTarget.R
+    400070: KneePoleTarget.R_end
+    400072: LowerArm.L
+    400074: LowerArm.R
+    400076: LowerLeg.L
+    400078: LowerLeg.L_end
+    400080: LowerLeg.R
+    400082: LowerLeg.R_end
+    400084: Neck
+    400086: SpineBottom
+    400088: SpineMiddle
+    400090: Teeth_low
+    400092: ThumbMiddle.L
+    400094: ThumbMiddle.R
+    400096: ThumbTip.L
+    400098: ThumbTip.L_end
+    400100: ThumbTip.R
+    400102: ThumbTip.R_end
+    400104: ThumbTop.L
+    400106: ThumbTop.R
+    400108: Tounge_low
+    400110: UpperArm.L
+    400112: UpperArm.R
+    400114: UpperLeg.L
+    400116: UpperLeg.R
+    400118: UpperSpine
+    2100000: FinalElementGameCharacter
+    2100002: Eye Outer
+    2100004: Eye
+    4300000: Tounge_low
+    4300002: Teeth_low
+    4300004: FinalElementGameCharacter_low
+    4300006: Eyes_Low
+    7400000: Jump to fall
+    7400002: Ranged Attack
+    7400004: Jump
+    7400006: Run Animation
+    7400008: Idle
+    7400010: T Pose
+    7400012: Fall
+    7400014: Landing
+    7400016: Game Character|Character.001|Character| fall|Character| fall.001
+    7400018: Game Character|Character.001|Character|Character.001|Character| fall|Character
+    7400020: Game Character|Character.001|Character|Character.001|Character|Jump|Character|
+    7400022: Game Character|Character.001|Character|Character.001|Character|Landing|Charact
+    7400024: Game Character|Character.001|Character|Jump|Character|Jump.001
+    7400026: Game Character|Character.001|Character|Landing|Character|Landing.001
+    7400028: Game Character|Character.001|Character|SphereAction|Character|SphereAction
+    7400030: Game Character|Death
+    7400032: Game Character|Fall
+    7400034: Game Character|Game Character.001| fall| fall.001
+    7400036: Game Character|Game Character.001|Death|Death.001
+    7400038: Game Character|Game Character.001|Idle|Idle.001
+    7400040: Game Character|Game Character.001|Jump to fall|Jump to fall.001
+    7400042: Game Character|Game Character.001|Jump|Jump.001
+    7400044: Game Character|Game Character.001|Landing|Landing.001
+    7400046: Game Character|Game Character.001|Ranged Attack|Ranged Attack.001
+    7400048: Game Character|Game Character.001|Run Animation|Run Animation.001
+    7400050: Game Character|Game Character.001|T Pose|T Pose.001
+    7400052: Game Character|Idle
+    7400054: Game Character|Jump
+    7400056: Game Character|Jump to fall
+    7400058: Game Character|Landing
+    7400060: Game Character|Ranged Attack
+    7400062: Game Character|Run Animation
+    7400064: Game Character|T Pose
+    9500000: //RootNode
+    13700000: Eyes_Low
+    13700002: FinalElementGameCharacter_low
+    13700004: Teeth_low
+    13700006: Tounge_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 161052efa70ccd346a5c8d4df2943caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye Outer
+    second: {fileID: 2100000, guid: ba5aae663804a4d46a4465a3672f7693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FinalElementGameCharacter
+    second: {fileID: 2100000, guid: 0715cefe3ef6fd54cb115a3cc3f3217d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jump to fall
+      takeName: Jump to fall
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ranged Attack
+      takeName: Ranged Attack
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Jump
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run Animation
+      takeName: Run Animation
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T Pose
+      takeName: T Pose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fall
+      takeName: Fall
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Landing
+      takeName: Landing
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

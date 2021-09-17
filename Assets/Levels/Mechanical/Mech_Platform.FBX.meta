@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 2c10dbd9db703634cb938011b50a6084
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackDrop
+    100002: FrontCog1
+    100004: FrontCog2
+    100006: FrontCog3
+    100008: FrontCog4
+    100010: FrontCog5
+    100012: FrontCogBase1
+    100014: FrontCogBase2
+    100016: FrontCogBase3
+    100018: FrontCogBase4
+    100020: FrontCogBase5
+    100022: largePlatform
+    100024: LeftCogBase
+    100026: LiquidBottom
+    100028: MainPlatform
+    100030: //RootNode
+    100032: PipeFront1/1
+    100034: PipeFront1/2
+    100036: PipeFront1/3
+    100038: PipeFront2/1
+    100040: PipeFront2/2
+    100042: PipeFront2/3
+    100044: PipeFront2/4
+    100046: PipeFront3/1
+    100048: PipeFront3/2
+    100050: PipeFront3/3
+    100052: PipeFront3/4
+    100054: PipeFront4/1
+    100056: PipeFront4/2
+    100058: PipeFront4/3
+    100060: PipeRear1/1
+    100062: PipeRear2/1
+    100064: PipeRear2/2
+    100066: PipeRear3/1
+    100068: PistonHouseLeft
+    100070: PistonHouseLeft 1
+    100072: PistonLeft
+    100074: PistonLever
+    100076: PistonPipeLeft
+    100078: PistonPipeLeft 1
+    100080: PistonRight
+    100082: RearCogLeft
+    100084: RearCogRight
+    100086: RightCogBase
+    100088: SmallPlatform
+    100090: TriPlatform
+    400000: BackDrop
+    400002: FrontCog1
+    400004: FrontCog2
+    400006: FrontCog3
+    400008: FrontCog4
+    400010: FrontCog5
+    400012: FrontCogBase1
+    400014: FrontCogBase2
+    400016: FrontCogBase3
+    400018: FrontCogBase4
+    400020: FrontCogBase5
+    400022: largePlatform
+    400024: LeftCogBase
+    400026: LiquidBottom
+    400028: MainPlatform
+    400030: //RootNode
+    400032: PipeFront1/1
+    400034: PipeFront1/2
+    400036: PipeFront1/3
+    400038: PipeFront2/1
+    400040: PipeFront2/2
+    400042: PipeFront2/3
+    400044: PipeFront2/4
+    400046: PipeFront3/1
+    400048: PipeFront3/2
+    400050: PipeFront3/3
+    400052: PipeFront3/4
+    400054: PipeFront4/1
+    400056: PipeFront4/2
+    400058: PipeFront4/3
+    400060: PipeRear1/1
+    400062: PipeRear2/1
+    400064: PipeRear2/2
+    400066: PipeRear3/1
+    400068: PistonHouseLeft
+    400070: PistonHouseLeft 1
+    400072: PistonLeft
+    400074: PistonLever
+    400076: PistonPipeLeft
+    400078: PistonPipeLeft 1
+    400080: PistonRight
+    400082: RearCogLeft
+    400084: RearCogRight
+    400086: RightCogBase
+    400088: SmallPlatform
+    400090: TriPlatform
+    2100000: 'Material #23'
+    2300000: BackDrop
+    2300002: FrontCog1
+    2300004: FrontCog2
+    2300006: FrontCog3
+    2300008: FrontCog4
+    2300010: FrontCog5
+    2300012: FrontCogBase1
+    2300014: FrontCogBase2
+    2300016: FrontCogBase3
+    2300018: FrontCogBase4
+    2300020: FrontCogBase5
+    2300022: largePlatform
+    2300024: LeftCogBase
+    2300026: LiquidBottom
+    2300028: MainPlatform
+    2300030: PipeFront1/1
+    2300032: PipeFront1/2
+    2300034: PipeFront1/3
+    2300036: PipeFront2/1
+    2300038: PipeFront2/2
+    2300040: PipeFront2/3
+    2300042: PipeFront2/4
+    2300044: PipeFront3/1
+    2300046: PipeFront3/2
+    2300048: PipeFront3/3
+    2300050: PipeFront3/4
+    2300052: PipeFront4/1
+    2300054: PipeFront4/2
+    2300056: PipeFront4/3
+    2300058: PipeRear1/1
+    2300060: PipeRear2/1
+    2300062: PipeRear2/2
+    2300064: PipeRear3/1
+    2300066: PistonHouseLeft
+    2300068: PistonHouseLeft 1
+    2300070: PistonLeft
+    2300072: PistonLever
+    2300074: PistonPipeLeft
+    2300076: PistonPipeLeft 1
+    2300078: PistonRight
+    2300080: RearCogLeft
+    2300082: RearCogRight
+    2300084: RightCogBase
+    2300086: SmallPlatform
+    2300088: TriPlatform
+    3300000: BackDrop
+    3300002: FrontCog1
+    3300004: FrontCog2
+    3300006: FrontCog3
+    3300008: FrontCog4
+    3300010: FrontCog5
+    3300012: FrontCogBase1
+    3300014: FrontCogBase2
+    3300016: FrontCogBase3
+    3300018: FrontCogBase4
+    3300020: FrontCogBase5
+    3300022: largePlatform
+    3300024: LeftCogBase
+    3300026: LiquidBottom
+    3300028: MainPlatform
+    3300030: PipeFront1/1
+    3300032: PipeFront1/2
+    3300034: PipeFront1/3
+    3300036: PipeFront2/1
+    3300038: PipeFront2/2
+    3300040: PipeFront2/3
+    3300042: PipeFront2/4
+    3300044: PipeFront3/1
+    3300046: PipeFront3/2
+    3300048: PipeFront3/3
+    3300050: PipeFront3/4
+    3300052: PipeFront4/1
+    3300054: PipeFront4/2
+    3300056: PipeFront4/3
+    3300058: PipeRear1/1
+    3300060: PipeRear2/1
+    3300062: PipeRear2/2
+    3300064: PipeRear3/1
+    3300066: PistonHouseLeft
+    3300068: PistonHouseLeft 1
+    3300070: PistonLeft
+    3300072: PistonLever
+    3300074: PistonPipeLeft
+    3300076: PistonPipeLeft 1
+    3300078: PistonRight
+    3300080: RearCogLeft
+    3300082: RearCogRight
+    3300084: RightCogBase
+    3300086: SmallPlatform
+    3300088: TriPlatform
+    4300000: MainPlatform
+    4300002: SmallPlatform
+    4300004: largePlatform
+    4300006: TriPlatform
+    4300008: LeftCogBase
+    4300010: RearCogLeft
+    4300012: FrontCogBase3
+    4300014: FrontCogBase2
+    4300016: FrontCogBase1
+    4300018: FrontCogBase4
+    4300020: FrontCogBase5
+    4300022: FrontCog3
+    4300024: FrontCog2
+    4300026: FrontCog1
+    4300028: FrontCog4
+    4300030: FrontCog5
+    4300032: PipeFront4/1
+    4300034: PipeFront4/2
+    4300036: PipeFront4/3
+    4300038: PipeFront1/1
+    4300040: PipeFront1/2
+    4300042: PipeFront1/3
+    4300044: PipeFront3/1
+    4300046: PipeFront3/2
+    4300048: PipeFront3/3
+    4300050: PipeFront3/4
+    4300052: PipeFront2/1
+    4300054: PipeFront2/2
+    4300056: PipeFront2/3
+    4300058: PipeFront2/4
+    4300060: PistonHouseLeft
+    4300062: PistonPipeLeft
+    4300064: PistonLever
+    4300066: PistonLeft
+    4300068: PistonRight
+    4300070: RightCogBase
+    4300072: PistonHouseLeft
+    4300074: RearCogRight
+    4300076: PipeRear2/1
+    4300078: PipeRear3/1
+    4300080: LiquidBottom
+    4300082: BackDrop
+    4300084: PistonPipeLeft
+    4300086: PipeRear1/1
+    4300088: PipeRear2/2
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
