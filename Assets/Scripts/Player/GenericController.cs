@@ -67,13 +67,6 @@ public class GenericController : MonoBehaviour
         if (Input.GetKeyDown(inputCommands["Jump"]) && CurrentJumps > 0)
            Jump();
 
-        //Changing the facing direction
-        if (MovementForce < 0)     //Moving left
-            ChangeRotation(-90.0f);
-
-        else if (MovementForce > 0)
-            ChangeRotation(90.0f);
-
         //Projectile 
         if (Input.GetKey(inputCommands["Projectile"]) && Grounded && CheckAttackCooldown() && Time.timeScale > 0f)
             Fire();
@@ -92,6 +85,9 @@ public class GenericController : MonoBehaviour
             InputAction();
 
         Move();
+
+        if (MovementForce < 0) ChangeRotation(-90.0f);
+        else if (MovementForce > 0) ChangeRotation(90.0f);
 
         if (Grounded)
         {
