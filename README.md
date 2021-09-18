@@ -1,23 +1,22 @@
 <h1 align="center">Final Element</h1>
-<p align="center">This application is a Unity 3D multiplayer fighting game demo which features similar gameplay mechanics to the popular fighting series Super Smash Bros. The game consists of 4 maps to battle it out on as well as powerups which can give you an edge on your opponent. The game is playable on the Windows OS. This repository only contains the application exe, no code will be featured.
+<p align="center">This application is a Unity 3D multiplayer fighting game demo which features similar gameplay mechanics to the popular fighting series Super Smash Bros. The game consists of 4 maps to battle it out on as well as powerups which can give you an edge on your opponent. The game is playable on the Windows OS.
 </p>
 
 ## Screenshots
 <p align="center">
-  <img hspace = "10" alt ="Title Screen" src = "https://user-images.githubusercontent.com/74617187/124130457-b73a9d00-da76-11eb-9402-f1cc906c3647.png" height="300" width="400" />
-  <img alt ="Mechanical Level" src = "https://user-images.githubusercontent.com/74617187/124130718-fc5ecf00-da76-11eb-8865-c7d73c0473dc.png" height = "300" width = "400"/>
+  <img hspace = "10" alt ="Title Screen" src = "https://user-images.githubusercontent.com/74617187/133889296-935e0a58-b93e-4ed7-ab4d-83e0e74b4385.png" height="300" width="400" />
+  <img alt ="Mechanical Level" src = "https://user-images.githubusercontent.com/74617187/133889401-f94d203e-0efa-4ddb-b03e-2716b7ae2d89.png" height = "300" width = "400"/>
 </p>
 
 <p align="center">
-  <img hspace = "10" alt ="Nature Level" src = "https://user-images.githubusercontent.com/74617187/124131072-5a8bb200-da77-11eb-8009-c5246ac0014b.png" height="300" width="400" />
-  <img alt ="Space Level" src = "https://user-images.githubusercontent.com/74617187/124131185-72fbcc80-da77-11eb-83b6-6e8add50f0a2.png" height = "300" width = "400"/>
+  <img hspace = "10" alt ="Nature Level" src = "https://user-images.githubusercontent.com/74617187/133889426-3993f477-c1d3-471c-9ddc-bee52da6b4c1.png" height="300" width="400" />
+  <img alt ="Space Level" src = "https://user-images.githubusercontent.com/74617187/133889449-1ecc9bfe-91db-4a11-b34a-ca9e15dd880a.png" height = "300" width = "400"/>
 </p>
   
 ## How To Use
-In the game there are 5 different attacks that are all used in different circumstances and all deal different amounts of damage. The Special attack and Ranged attack deal the most damage but are slower to pull off while faster attacks like the Basic and Air attacks deal less damage. The aim of the game is to push your opponent off of the stage and eliminate their 3 lives to win the match. Dealing damage to the enemy; which is shown next to the players name on the screen, allows for you to hit your opponent further distances making it harder to stay on the stage the more damage you receive.
+In the game there are 2 different special attacks, a ranged projectile attack which allows for distance attacking, and a close range melee attack; balancing for these attacks has been made to prevent spamming. The aim of the game is to push your opponent off the stage using these attacks, each time a player goes offstage they lose a life, once a player has lost all lives, the game ends and the player left standing wins. Both the damage and lives remaining for each player is displayed at the bottom of the screen, the higher damage a player has, the further they will be pushed back when they are hit making it harder to stay on the stage.
 
-Powerups and obstacles are also scattered throughout the stages and have various effects on players. There are spike traps which take away one of your lives if you touch them, powerup weights which increase the amount of damage you deal, heart containers which give you additional lives and health potions which decrease your damage percentage.
-
+The game also contains powerups which are located in various points in each stage and all 3 items have different uses. The power weight item increases the amount of damage you deal with both attacks, the heart container reduces your damage, and the potion grants an additional life.
 
 The game supports both keyboard and controller inputs which are listed below.
 
@@ -28,33 +27,24 @@ Keyboard Controls:
 - Double Jump - Press Jump key again when still mid-air
 - Left - 'A' Key
 - Right - 'D' Key
-- Basic Attack - 'T' Key
-- Side Attack - 'Y' Key + Left / Right movement
-- Air Attack - 'U' Key while mid-air
-- Ranged Attack - 'L' Key
-- Special Attack - 'H' Key + Left / Right movement
+- Ranged Attack - 'Space' Key
+- Melee Attack - 'M' Key
 
 [Player 2]
 - Jump - Up Arrow Key
 - Double Jump - Press Jump key again when still mid-air
 - Left - Left Arrow Key
 - Right - Right Arrow Key
-- Basic Attack - NumPad '8' Key
-- Side Attack - NumPad '2' Key + Left / Right movement
-- Air Attack - NumPad '6' Key while mid-air
-- Ranged Attack - 'Enter' Key
-- Special Attack - NumPad '-' Key + Left / Right movement
+- Ranged Attack - 'NumPad Enter' Key
+- Melee Attack - 'NumPad +' Key
 
 Controller Controls: (Xbox Controller)
-- Jump - Y
+- Jump - A
 - Double Jump - Press Jump key again when still mid-air
 - Left - Left Stick
 - Right - Left Stick
-- Basic Attack - B
-- Side Attack - B + Left / Right movement
-- Air Attack - B while mid-air
-- Ranged Attack - A
-- Special Attack - A + Left / Right movement
+- Ranged Attack - B
+- Melee Attack - X
 
 ## Built With
 - C#
